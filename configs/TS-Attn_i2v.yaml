@@ -1,0 +1,5 @@
+Env_args:
+  time_step_ratio: 0.5
+  mask_type: "soft"
+  threshold: 0.2
+  use_erode: True

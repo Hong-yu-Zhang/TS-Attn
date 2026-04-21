@@ -1,0 +1,163 @@
+{
+    "A_CD_is_inserted_into_a_player_and_then_spins_up.mp4": {
+        "prompt": "A CD is inserted into a player, and then spins up.",
+        "event_list": [
+            "A CD is inserted into a player",
+            "And then the CD spins up"
+        ],
+        "class": [
+            "object",
+            "medium",
+            "2_events"
+        ],
+        "subject": "CD",
+        "motion": [
+            "is inserted into a player",
+            "spins up"
+        ],
+        "event_range": "[0.6, 0.4]"
+    },
+    "A_cat_watches_a_bowl_filled_with_water_dips_a_paw_inside_and_then_takes_it_out.mp4": {
+        "prompt": "A cat watches a bowl filled with water, dips a paw inside, and then takes it out.",
+        "event_list": [
+            "A cat watches a bowl filled with water",
+            "The cat dips a paw inside",
+            "And then the cat takes it out"
+        ],
+        "class": [
+            "animal",
+            "easy",
+            "3_events"
+        ],
+        "subject": "cat",
+        "motion": [
+            "watches a bowl filled with water",
+            "dips a paw inside",
+            "takes it out"
+        ],
+        "event_range": "[0.6, 0.2, 0.2]"
+    },
+    "A_ball_rolls_towards_a_wheelchair_collides_the_wheelchair_and_bounces_back_and_then_rolls_away_slowly.mp4": {
+        "prompt": "A ball rolls towards a wheelchair, collides the wheelchair and bounces back, and then rolls away slowly.",
+        "event_list": [
+            "A ball rolls towards a wheelchair",
+            "The ball collides the wheelchair and bounces back",
+            "And then the ball rolls away slowly"
+        ],
+        "class": [
+            "object",
+            "retrieval",
+            "medium",
+            "3_events"
+        ],
+        "subject": "ball",
+        "motion": [
+            "rolls towards a wheelchair",
+            "collides the wheelchair",
+            "bounces back",
+            "rolls away slowly"
+        ],
+        "event_range": "[0.4, 0.2, 0.2, 0.2]"
+    },
+    "A_bicycle_pedals_itself_down_the_street_stops_at_a_red_light_and_then_continues_when_it_turns_green.mp4": {
+        "prompt": "A bicycle pedals itself down the street, stops at a red light, and then continues when it turns green.",
+        "event_list": [
+            "A bicycle pedals itself down the street",
+            "The bicycle stops at a red light",
+            "And then the bicycle continues when it turns green"
+        ],
+        "class": [
+            "object",
+            "creative",
+            "hard",
+            "3_events"
+        ],
+        "subject": "bicycle",
+        "motion": [
+            "pedals itself down the street",
+            "stops at a red light",
+            "continues when it turns green"
+        ],
+        "event_range": "[0.5, 0.2, 0.3]"
+    },
+    "A_child_builds_a_sandcastle_and_then_jumps_on_it_to_flatten_it.mp4": {
+        "prompt": "A child builds a sandcastle, and then jumps on it to flatten it.",
+        "event_list": [
+            "A child builds a sandcastle",
+            "And then the child jumps on it to flatten it"
+        ],
+        "class": [
+            "human",
+            "medium",
+            "2_events"
+        ],
+        "subject": "child",
+        "motion": [
+            "builds a sandcastle",
+            "jumps on it",
+            "flattens it"
+        ],
+        "event_range": "[0.5, 0.3, 0.2]"
+    },
+    "A_sprinkler_rotates_sprays_water_over_the_lawn_and_then_stops.mp4": {
+        "prompt": "A sprinkler rotates, sprays water over the lawn, and then stops.",
+        "event_list": [
+            "A sprinkler rotates",
+            "The sprinkler sprays water over the lawn",
+            "And then the sprinkler stops"
+        ],
+        "class": [
+            "object",
+            "easy",
+            "3_events"
+        ],
+        "subject": "sprinkler",
+        "motion": [
+            "rotates",
+            "sprays water over the lawn",
+            "stops"
+        ],
+        "event_range": "[0.4, 0.5, 0.1]"
+    },
+    "A_spider_hangs_from_a_ceiling_drops_down_and_then_climbs_back_up.mp4": {
+        "prompt": "A spider hangs from a ceiling, drops down, and then climbs back up.",
+        "event_list": [
+            "A spider hangs from a ceiling",
+            "The spider drops down",
+            "And then the spider climbs back up"
+        ],
+        "class": [
+            "animal",
+            "medium",
+            "3_events"
+        ],
+        "subject": "spider",
+        "motion": [
+            "hangs from a ceiling",
+            "drops down",
+            "climbs back up"
+        ],
+        "event_range": "[0.4, 0.3, 0.3]"
+    },
+    "A_car_drives_up_a_skyscraper_reaches_the_top_and_then_drives_off_into_the_sky.mp4": {
+        "prompt": "A car drives up a skyscraper, reaches the top, and then drives off into the sky.",
+        "event_list": [
+            "A car drives up a skyscraper",
+            "The car reaches the top",
+            "And then the car drives off into the sky"
+        ],
+        "class": [
+            "object",
+            "creative",
+            "medium",
+            "3_events"
+        ],
+        "subject": "car",
+        "motion": [
+            "drives up a skyscraper",
+            "reaches the top",
+            "drives off into the sky"
+        ],
+        "event_range": "[0.4, 0.3, 0.3]"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "The_robotic_arm_grasps_the_cup_carefully_pours_water_into_the_potted_plant_and_then_places_the_cup_back_on_the_counter.mp4": {
+        "prompt": "The robotic arm grasps the cup carefully pours water into the potted plant and then places the cup back on the counter",
+        "subject": "robotic arm",
+        "motion": [
+            "grasps the cup",
+            "pours water into the potted plant",
+            "places the cup back on the counter"
+        ],
+        "img_path": "./prompts/img/The_robotic_arm_grasps_the_cup_carefully_pours_water_into_the_potted_plant_and_then_places_the_cup_back_on_the_counter.png",
+        "event_range": "[0.33, 0.33, 0.34]"
+    }
+}

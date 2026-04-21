@@ -1,0 +1,14 @@
+opencv-python>=4.9.0.80
+diffusers==0.35.1
+transformers==4.56.2
+tokenizers==0.22.1
+accelerate==1.10.1
+tqdm
+imageio[ffmpeg]
+easydict
+ftfy
+pyyaml
+dashscope
+imageio-ffmpeg
+# flash_attn
+numpy>=1.23.5,<2
