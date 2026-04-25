@@ -1,7 +1,7 @@
 
 ## TS-Attn: Temporal-wise Separable Attention for Multi-Event Video Generation
 
-<a href="https://arxiv.org/abs/2601.07832"><img src="https://img.shields.io/badge/Arxiv-2601.07832-b31b1b.svg?logo=arXiv"></a> &ensp;
+<a href="https://arxiv.org/pdf/2604.19473v1"><img src="https://img.shields.io/badge/Arxiv-2601.07832-b31b1b.svg?logo=arXiv"></a> &ensp;
 <a href="https://github.com/Hong-yu-Zhang/TS-Attn"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=blue&logo=github-pages"></a> &ensp;
 
 [Hongyu Zhang](https://github.com/Hong-yu-Zhang)<sup>1*</sup>, 
